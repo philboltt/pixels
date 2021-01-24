@@ -23,7 +23,7 @@ pixels = neopixel.NeoPixel(
 
 # pixels[49] = (255, 0, 0)
 
-# pixels[51] = (255, 0, 0)
-# pixels[52] = (255, 0, 0)
-# pixels[53] = (255, 0, 0)
+pixels[55] = (255, 0, 0)
+pixels[56] = (255, 0, 0)
+pixels[57] = (255, 0, 0)
 pixels[58] = (255, 0, 0)
